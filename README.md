@@ -105,9 +105,6 @@ This system transforms abstract future-skill discussions into measurable, struct
 
 ---
 
-## Example Output
-
-```txt
 Curriculum Relevance Score: 72 / 100
 
 Strengths:
